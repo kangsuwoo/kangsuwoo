@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @kangsuwoo
+-I started coding in HTML.
 - 👀 I’m interested in Game progaming.
-- 🌱 I’m currently learning C++ , Direct2D
-- �  I'm 16 years old 
+-🌱 저는 현재 C ++, Direct2D를 배우고 있습니다
+-  16 살입니다 
 - 📫 How to reach me kangsuwoo9@gmail.com
 
 <!---
