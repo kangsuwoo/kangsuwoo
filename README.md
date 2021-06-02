@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kangsuwoo
 - 👀 I’m interested in Game progaming.
 - 🌱 I’m currently learning C++ , Direct2D
-- 💞️ I’m looking to collaborate on ...
+- �  I'm 16 years old 
 - 📫 How to reach me kangsuwoo9@gmail.com
 
 <!---
