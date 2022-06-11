@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kangsuwoo
-- I started coding in HTML.
+- I'm game programmer
 - 👀 I’m interested in Game progaming.
 - 🌱 I can use C++,C#, Direct2D and Unity 
 - 📫 How to reach me kangsuwoo9@gmail.com
